@@ -10,7 +10,7 @@ My first complete Unity game
 ## Gameplay
 https://play.unity.com/mg/other/towerdef-webgl
 
-<img src="images/gl1.png" height='' width=''/>&nbsp;&nbsp;&nbsp;<img src="" height='' width=''/>&nbsp;&nbsp;&nbsp;<img src="" height='' width=''/>
+<img src="Images/gl1.png" height='' width=''/>&nbsp;&nbsp;&nbsp;<img src="Images/gl2.png" height='' width=''/>&nbsp;&nbsp;&nbsp;<img src="Images/gl3.png" height='' width=''/>
 
 ## Features
 
