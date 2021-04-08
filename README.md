@@ -4,8 +4,9 @@
 ![platform](https://img.shields.io/badge/Platform-Unity-yellow.svg)
 ![Language](https://img.shields.io/badge/Language-C%23-orange.svg)
 
-## Features
   My first complete Unity project
+
+## Features
   
 * Tower Defend game
  - simple spawner (which wave control)
