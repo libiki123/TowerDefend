@@ -9,10 +9,10 @@
 ## Features
   
 * Tower Defend game
- - simple spawner (which wave control)
- - simple path finding
- - different type of enemies
- - different type of turrets
+  - simple spawner (which wave control)
+  - simple path finding
+  - different type of enemies
+  - different type of turrets
 
 ## Gameplay
 https://play.unity.com/mg/other/towerdef-webgl
