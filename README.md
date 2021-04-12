@@ -18,7 +18,7 @@
 https://play.unity.com/mg/other/towerdef-webgl
 
 ## ScreenShots
-<img src="Images/gl1.png" height='300x' width='500x'/>&nbsp;&nbsp;&nbsp;<img src="Images/gl2.png" height='300x' width='500x'/>&nbsp;&nbsp;&nbsp;<img src="Images/gl3.png" height='300x' width='500x'/>
+<img src="Images/gl1.png" height='250x' width='400x'/>&nbsp;&nbsp;&nbsp;<img src="Images/gl2.png" height='250x' width='400x'/>&nbsp;&nbsp;&nbsp;<img src="Images/gl3.png" height='250x' width='400x'/>
 
 ## Sources
 
